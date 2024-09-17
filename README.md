@@ -6,7 +6,7 @@ setup. The rest of the guide describes how to use the machine.
 
 ## First-Time Setup
 
-Please follow these steps when you first set up your Sapling account.
+Please follow these steps when you first set up your Redwood account.
 
 ### How to SSH
 
