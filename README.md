@@ -8,6 +8,11 @@ setup. The rest of the guide describes how to use the machine.
 
 Please follow these steps when you first set up your Redwood account.
 
+### Getting Access
+
+To get access to Redwood, email `action@cs.stanford.edu` and CC
+Rohan (`rohany@cs.stanford.edu`) and Fred (`kjolstad@stanford.edu`).
+
 ### How to SSH
 
 ```bash
