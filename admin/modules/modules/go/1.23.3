@@ -1,0 +1,8 @@
+#%Module 1.0
+
+conflict go
+
+set go_root /usr/local/go-1.23.3/
+
+setenv GOROOT ${go_root}
+append-path PATH ${go_root}/bin/

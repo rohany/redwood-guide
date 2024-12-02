@@ -51,12 +51,17 @@ We provide a very minimal module system. Currenty, the only
 provided modules are:
 
 * CUDA
+* Go
 
-The CUDA module can be loaded with
+Modules can be loaded with
 ```bash
-module load cuda
+module load <module>/<version>
 ```
 
+Available modules can be seen with
+```bash
+module avail
+```
 
 ## Administration
 
