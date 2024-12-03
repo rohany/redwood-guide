@@ -63,6 +63,16 @@ Available modules can be seen with
 module avail
 ```
 
+### Profilers
+
+Intel's VTune doesn't lend itself nicely to a module-based installation. To access
+VTune, do
+```bash
+source /opt/intel/oneapi/vtune/latest/env/vars.sh
+```
+
+Unfortunately, VTune doesn't work yet without sudo access, so bother me if you need it...
+
 ## Administration
 
 How to...
