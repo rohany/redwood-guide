@@ -52,6 +52,7 @@ provided modules are:
 
 * CUDA
 * Go
+* Magic Trace (perf-based profiler)
 
 Modules can be loaded with
 ```bash
